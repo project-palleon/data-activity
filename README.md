@@ -18,6 +18,6 @@ This could be drastically improved by taking other plugins data (recognized face
 
 ## Installation
 
-1. install python 3 (I am using version 3.10, I have not tested prior version)
+1. install python 3 (I am using version 3.10, I have not tested prior versions)
 2. install requirements from requirements.txt
 3. start core
